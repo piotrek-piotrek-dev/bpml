@@ -1,0 +1,24 @@
+ROZLICZANIE WYNAGRODZEŃ B2B
+
+spółka celowa może być powiązana kapitałowo ze spółką matką
+
+1. wystawiono fakturę przez {Kontraktora} / przesłano do {Księgowej danej spółki celowej lub matki}
+1a. jeśli przesłano do {księgowej spółki matki}, prześlij do {księgowej spółki córki}
+
+2. [sprawdzono poprawność 3 składowych przez {księgową spółki celowej}]: 
+2a. jeśli premia się zgadza, idź dalej, przeciwnie, zwróć do kontraktora (1), 
+2b. jeśli zwrot kosztów się zgadza, idź dalej, przeciwnie zwróć do kontraktora(1)
+2c. jeśli sprzedaż się zgadza, idź dalej, przeciwnie zwróć do kontraktora(1)
+
+3. [sprawdzono poprawność faktury przez PMa spółki celowej]}
+3a. jeśli jest nieprawidłowa, odesłano do {księgowej spółki celowej} a ta odsyła do {kontratora}
+3b. jeśłi poprawna {PM} wysyła do {skięgowej spółki celowej}
+3c. {księgowa spółki celowej} wysyła FV do {księgowej spółki matki}
+
+4. {księgowa spółki matki} sprawdza zgodność wynagrodzenia bazowego
+4a. jeśli poprawnie przekazuje do {księgowej głównej spółki matki}
+4b. jeśli nieprawidłowa, wysyła do {księgowej spółki celowej}
+4c. {księgowa spółki celowej} odsyła FV do {Kontraktora}
+
+5. {księgowa spółki matki} kieruje do wypłaty
+
